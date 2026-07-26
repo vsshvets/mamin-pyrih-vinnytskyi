@@ -6,6 +6,12 @@
 
 > 💛 **Mom's rule:** don't double the batch. Too much dough is hard to work with.
 
+<p align="center">
+  <img src="images/trial-run-out-of-the-oven.jpeg" width="440" alt="The finished pie in its tray, cinnamon-sugar crust, still warm" />
+  <br/>
+  <em>🧪 Trial run number one — out of the oven at 23:44, 25 July 2026, cooked with <strong>Chef Aline</strong>.</em>
+</p>
+
 ---
 
 ## 🧾 Ingredients
@@ -24,7 +30,7 @@
 
 > 🌾 **About the flour:** Mom counts a cup as ~250 g and calls this "about 1 kg," but a 250 ml cup of flour weighs closer to 150 g, so 4 cups is roughly 600 g. Trust the dough, not the scale: it should come together soft and only *slightly* sticky. If your flour already contains baking powder (self-rising), **skip the soda.**
 
-> 🧀 **About the cheese — this is a *cheese dough*.** The cheese isn't a filling; it's rubbed into the flour to build the dough itself, which is what makes this pie so tender. The original uses **tvorog** (Ukrainian *сир*) — a fresh, soft, mildly tangy curd cheese, the same family as German **Quark**. Don't have it? **Ricotta works great.** Full sourcing and substitutes (including where to find it in Chile 🇨🇱) are in the **🧀 The Cheese** section just below.
+> 🧀 **About the cheese — this is a *cheese dough*.** The cheese isn't a filling; it's ~~rubbed into the flour~~ **mixed into the dough** to build the dough itself, which is what makes this pie so tender. (See **Chef Aline's correction** at step 2 — she was right, and the wording has been fixed everywhere.) The original uses **tvorog** (Ukrainian *сир*) — a fresh, soft, mildly tangy curd cheese, the same family as German **Quark**. Don't have it? **Ricotta works great.** Full sourcing and substitutes (including where to find it in Chile 🇨🇱) are in the **🧀 The Cheese** section just below.
 
 ### For the filling
 | | Ingredient | Amount |
@@ -74,7 +80,11 @@
 
 1. **🌾 Mix the dry base.** Combine the flour with the salt (and the 1 tsp soda *only* if your flour has no baking powder). Stir well.
 
-2. **🧀 Rub in the cheese.** Add the 500 g of cheese and rub it into the flour with your hands until you get an even, crumbly mass.
+2. **🧀 ~~Rub in the cheese.~~ Mix in the cheese.** Add the 500 g of cheese and ~~rub it into the flour~~ **mix it into the dough** with your hands until you get an even, crumbly mass.
+
+   > 🧑‍🍳 **Chef Aline says that's incorrect.** On the trial run (25 July 2026) she stopped me mid-step: you don't ~~rub it into the flour~~ — you **mix it into the dough.** You can't rub anything *into* flour. Flour just sits there being flour. (And yes, "rubbing in" is a real pastry term — for cold *butter*. Wet curd cheese is not butter.) Mom's recipe, Aline's terminology, and the terminology wins.
+   >
+   > *Full disclosure: Chef Aline showed up for exactly one trial run, overruled a family recipe inside ten minutes with the calm of someone who has clearly done this before, and still had the pie out of the oven by 23:44. Consultant to this tutorial — permanently, if she'll take the job.* 💛
 
 3. **🥚 Beat eggs and sugar.** In a separate bowl, beat the 5 eggs with the sugar until light and fluffy — a blender or mixer is perfect here. Add the vanilla and beat again.
 
@@ -100,6 +110,12 @@
 
 14. **🛌 Rest and serve.** Take it out, cover with a towel, and let it sit a few minutes. Slice, and enjoy. 💛
 
+<p align="center">
+  <img src="images/next-morning-with-tea.jpeg" width="440" alt="Two slices of the pie on a plate next to a mug of black tea, morning light" />
+  <br/>
+  <em>☕ The next morning, 08:42 — two slices and strong black tea. This is the correct way to eat it.</em>
+</p>
+
 ---
 
 ## 💡 Tips
@@ -117,7 +133,8 @@
 
 - Don't make a double batch — a lot of dough is hard to work with.
 - Vanilla: 1 teaspoon of the liquid kind, or 1 packet of vanilla sugar.
-- **And send Mom a photo of the finished pie.** 📸
+- **And send Mom a photo of the finished pie.** 📸 ✅ Done — trial run one, 25 July 2026, photographed and above.
+- Terminology reviewed and corrected on site by **Chef Aline.** The dough gets *mixed*, thank you.
 
 ---
 
