@@ -14,7 +14,7 @@
 | | Ingrediente | Quantidade |
 |---|---|---|
 | 🧀 | Queijo fresco tipo quark (*tvorog*), bem escorrido | **500 g** |
-| 🌾 | Farinha de trigo | **4 xícaras** (de 250 ml) — cerca de 600 g |
+| 🌾 | Farinha de trigo | **1 kg** (as 4 xícaras da mamãe, contadas a ~250 g cada) |
 | 🥚 | Ovos | **5** |
 | 🍬 | Açúcar | **1–1,5 xícara** (a receita pede 1,5; use 1 ou menos para algo mais leve) |
 | 🧈 | Óleo (girassol) | **2 colheres de sopa** (bem no final) |
@@ -22,7 +22,7 @@
 | 🌿 | Baunilha | **1 colher de chá** líquida **ou** 1 sachê de açúcar de baunilha |
 | 🥄 | Bicarbonato de sódio | **1 colher de chá** — *só se a sua farinha não tiver fermento* |
 
-> 🌾 **Sobre a farinha:** a mamãe conta uma xícara como ~250 g e chama de "quase 1 kg", mas uma xícara de farinha de 250 ml pesa mais para 150 g, então 4 xícaras dão cerca de 600 g. Confie na massa, não na balança: ela deve ficar macia e só *um pouco* grudenta. Se a sua farinha já tem fermento em pó, **pule o bicarbonato.**
+> 🌾 **Sobre a farinha:** a mamãe mede em xícaras e conta cada uma como ~250 g, então as "4 xícaras" dela são o **1 kg** da balança: siga o peso. E olhe a massa também: ela deve ficar macia e só *um pouco* grudenta. Se a sua farinha já tem fermento em pó, **pule o bicarbonato.**
 
 > 🧀 **Sobre o queijo — esta é uma *massa de queijo*.** O queijo não é recheio: ele é incorporado à farinha para formar a própria massa, e é isso que deixa a torta tão macia. O original usa **tvorog** (*сир* em ucraniano) — um queijo fresco, macio e levemente ácido, da mesma família do **Quark** alemão. Não tem? **A ricota funciona muito bem.** Onde encontrar e com o que substituir (inclusive onde achar no Chile 🇨🇱) está na seção **🧀 O queijo**, mais abaixo.
 

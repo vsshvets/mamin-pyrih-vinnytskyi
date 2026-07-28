@@ -14,7 +14,7 @@
 | | Ingrediente | Cantidad |
 |---|---|---|
 | 🧀 | Queso fresco tipo quark (*tvorog*), bien escurrido | **500 g** |
-| 🌾 | Harina | **4 tazas** (de 250 ml) — unos 600 g |
+| 🌾 | Harina | **1 kg** (las 4 tazas de mamá, contadas a ~250 g cada una) |
 | 🥚 | Huevos | **5** |
 | 🍬 | Azúcar | **1–1,5 tazas** (la receta dice 1,5; usa 1 o menos para algo más liviano) |
 | 🧈 | Aceite (maravilla / girasol) | **2 cucharadas** (al final del todo) |
@@ -22,7 +22,7 @@
 | 🌿 | Vainilla | **1 cucharadita** líquida **o** 1 sobre de azúcar avainillada |
 | 🥄 | Bicarbonato | **1 cucharadita** — *solo si tu harina no lleva leudante* |
 
-> 🌾 **Sobre la harina:** mamá cuenta una taza como ~250 g y la llama "casi 1 kg", pero una taza de harina de 250 ml pesa más bien 150 g, así que 4 tazas son unos 600 g. Confía en la masa, no en la balanza: debe quedar suave y solo *un poco* pegajosa. Si tu harina ya trae polvos de hornear (leudante), **omite el bicarbonato.**
+> 🌾 **Sobre la harina:** mamá mide en tazas y cuenta cada una como ~250 g, así que sus "4 tazas" son el **1 kg** de la balanza: guíate por el peso. Y mira también la masa: debe quedar suave y solo *un poco* pegajosa. Si tu harina ya trae polvos de hornear (leudante), **omite el bicarbonato.**
 
 > 🧀 **Sobre el queso — esta es una *masa de queso*.** El queso no es relleno: se integra con la harina para formar la masa misma, y por eso el pastel queda tan tierno. El original usa **tvorog** (*сир* en ucraniano) — un queso fresco, suave y ligeramente ácido, de la misma familia que el **Quark** alemán. ¿No lo tienes? **La ricotta funciona muy bien.** Dónde conseguirlo y con qué reemplazarlo (incluido dónde encontrarlo en Chile 🇨🇱) está en la sección **🧀 El queso**, más abajo.
 

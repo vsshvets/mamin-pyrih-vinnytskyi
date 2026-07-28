@@ -20,7 +20,7 @@
 | | Ingredient | Amount |
 |---|---|---|
 | 🧀 | Farmer's cheese / quark (*tvorog*), well-drained | **500 g** |
-| 🌾 | Flour | **4 cups** (250 ml each) — about 600 g |
+| 🌾 | Flour | **1 kg** (Mom's 4 cups, counted at ~250 g each) |
 | 🥚 | Eggs | **5** |
 | 🍬 | Sugar | **1–1.5 cups** (recipe says 1.5; use 1 or less for a lighter pie) |
 | 🧈 | Oil (sunflower / vegetable) | **2 tbsp** (added at the very end) |
@@ -28,7 +28,7 @@
 | 🌿 | Vanilla | **1 tsp** liquid **or** 1 packet vanilla sugar |
 | 🥄 | Baking soda | **1 tsp** — *only if your flour has no leavening* |
 
-> 🌾 **About the flour:** Mom counts a cup as ~250 g and calls this "about 1 kg," but a 250 ml cup of flour weighs closer to 150 g, so 4 cups is roughly 600 g. Trust the dough, not the scale: it should come together soft and only *slightly* sticky. If your flour already contains baking powder (self-rising), **skip the soda.**
+> 🌾 **About the flour:** Mom measures in cups and counts each one as ~250 g, so her "4 cups" is the **1 kg** on the scale — go by the weight. Watch the dough too: it should come together soft and only *slightly* sticky. If your flour already contains baking powder (self-rising), **skip the soda.**
 
 > 🧀 **About the cheese — this is a *cheese dough*.** The cheese isn't a filling; it's ~~rubbed into the flour~~ **mixed into the dough** to build the dough itself, which is what makes this pie so tender. (See **Chef Allene's correction** at step 2 — she was right, and the wording has been fixed everywhere.) The original uses **tvorog** (Ukrainian *сир*) — a fresh, soft, mildly tangy curd cheese, the same family as German **Quark**. Don't have it? **Ricotta works great.** Full sourcing and substitutes (including where to find it in Chile 🇨🇱) are in the **🧀 The Cheese** section just below.
 
